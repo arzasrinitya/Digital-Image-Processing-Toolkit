@@ -47,13 +47,14 @@ digital-image-processing-toolkit/
 └── README.md
 
 ## How to Run
-1. Clone the repository
-git clone <your-repository-url>
-2. Open the project folder
+### 1. Clone the repository
+
+git clone https://github.com/arzasrinitya/Digital-Image-Processing-Toolkit.git
+### 2. Open the project folder
 cd digital-image-processing-toolkit
-3. Create a virtual environment
+### 3. Create a virtual environment
 python -m venv venv
-4. Activate the virtual environment
+### 4. Activate the virtual environment
 
 Windows PowerShell:
 
